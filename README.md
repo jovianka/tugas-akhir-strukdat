@@ -9,7 +9,7 @@
     ```
 3. Install the requirements/dependencies
     ```bash
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
 4. Run the program
     ```bash
